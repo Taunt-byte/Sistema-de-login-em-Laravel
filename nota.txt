@@ -1,4 +1,12 @@
+Aqui esta algumas anotações que eu fiz durante o projeto. 
+Pois essa e a primeira vez que uso o laravel
+
+"tenha paciencia comigo"
+
 Requisitos para se começar a programar em lareval
 --------------------------------------------------
 
-Uma boa IDE = VSCODE
+1) Uma boa IDE = VSCODE
+2) Wammp para o server php
+3) composer para adiministrar dependencias do php
+4) laravel

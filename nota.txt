@@ -1,0 +1,4 @@
+Requisitos para se começar a programar em lareval
+--------------------------------------------------
+
+Uma boa IDE = VSCODE

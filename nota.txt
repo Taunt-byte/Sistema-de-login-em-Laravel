@@ -10,3 +10,5 @@ Requisitos para se começar a programar em lareval
 2) Wammp para o server php
 3) composer para adiministrar dependencias do php
 4) laravel
+
+Conteudo da pasta test foi feito para treino fique a vontade para utilizar
